@@ -1,0 +1,22 @@
+---
+layout: post
+title:      "First Project...talk-through"
+date:       2020-01-19 04:11:01 +0000
+permalink:  first_project_talk-through
+---
+
+The first project is probably one of the most daunting, worrisome and stressful things I have had to do in a long time. It has been over a month of being apart of the full-time cohort in Flatiron and it has been so fun and stressful (a good stressful). In this past month, we have read and learned about quite a lot of different topics. All this beautiful knowledge has been hurriedly shoved into my brain and now its time to try to sort through it and complete my first project. 
+
+This “project week” seemed to fly by while I struggled, learned and persevered every day. Each day came with its new obstacles and challenges that made me want to pull all my hair out, but every time I found a way through them I would be over the moon for my little victory.
+
+I had plenty of struggles throughout the project; like working with the data frames (not fighting with them), dealing with missing data, duplicates (oh, so many duplicates), working with the right type of data, what I should ask/answer and the fears of failing.
+
+When starting this project, just getting to the data was a hurdle of its own; with it being zipped and compressed (thank you gunzip ). While I sat there looking through the data frames the only thought I had was “What do I do with this?” I let myself look at all the data, data info, shape, color, everything. That’s when I realized the only way to use these would be by combining them. I decided that the data frame with money should be my starting base and I should add other data frames on top of that one (my starting material). So for anything that I thought I needed, I would merge it with a “left” or “inner” join to make sure I had what I needed. From there I started working on getting my calculations and conclusions, until I got so many errors and I couldn’t move forward at all. I had forgotten something so **crucial and important**.
+
+Data cleaning takes forever and you always forget something. For countless hours I applied my new knowledge of data cleaning plus figured out ways to clean my data that I had yet to learn. First, I realized I can’t use any numbers with dollar signs and commas. I cleaned it out and finally was able to change the columns from strings to integers. Once that was done I was ecstatic to start working with my data and get some results, but as always, data cleaning is never that easy. Once I was so close to being done with analyzing the data I realized I had forgotten to look for the duplicates, missing values,  check all the data types, and probably many other things. After many, many (MANY) hours/days it was clean, or as clean as I could get it. After that, I was able to create some of my columns with the data provided, for calculations I thought could help me have a better insight.
+
+By the time my data was clean (still not completely sure it is), I lost my confidence about what questions I should ask and why they would be important. While looking at the, now clean, data its all a bunch of numbers that have meaning but I don’t know if they will be meaningful to “Microsoft’s new studio.” Every question I think of I answer with “is that even important?” or “how does that helpful?” After lots of doubt and plenty of second-guessing, I decide on questions that I can answer with the data I have and provide the most helpful answers. Even creating attractive graphs was a challange. There are so many different graphs, styles of graphs, colors and so many other options to choose from.
+
+After everything is “done” and I start to work on my first README, blog, and video, I have a crazy amount of doubt. Every minute that passes I want to run to the computer and redo the entire project from a different angle. I’m quite nervous about submitting and presenting this project to find out I didn’t do well or worse fail. 
+
+As the time limit nears, I realize this isn’t the end. The purpose of this project is not to fail or pass, but to implement my new knowledge and understand it. This is the first project that we are doing where there is no “safety net” (solution). This is all us, our work, our thoughts, and our process. While I am submitting this project, I know once I do I am going to go back and see what I can improve to make it something I can be more proud of. This project had many hurdles to jump and obstacles in my way, but I was able to learn so many things while going through it. 
