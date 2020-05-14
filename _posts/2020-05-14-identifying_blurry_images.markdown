@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Identifying Blurry Images"
-date:       2020-05-14 17:08:37 +0000
+date:       2020-05-14 13:08:38 -0400
 permalink:  identifying_blurry_images
 ---
 
@@ -10,8 +10,9 @@ Autoencoder is an awesome tool that is used to visually see what exactly the mod
 
 
 
-<img  style="float: left;"  src="https://drive.google.com/uc?id=1XjcRJuNTI7B7AsZrNIg4bRJ7_yuqr4lV" height="500" width="400"!>
-<img   src="https://drive.google.com/uc?id=1L-FxmT7JPv7IhhABZ3ceiI_f_5o8HK8f"  height="500" width="400"!>
+<img  style="float: left;"  src="https://drive.google.com/uc?id=1XjcRJuNTI7B7AsZrNIg4bRJ7_yuqr4lV"   height="400" width="300">
+
+<img   src="https://drive.google.com/uc?id=1L-FxmT7JPv7IhhABZ3ceiI_f_5o8HK8f"  height="400" width="300">
 
 
 
