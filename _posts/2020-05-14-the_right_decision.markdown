@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      " The "Right" Decision # "
-date:       2020-05-14 18:46:21 +0000
+date:       2020-05-14 14:46:22 -0400
 permalink:  the_right_decision
 ---
 
